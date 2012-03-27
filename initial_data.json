@@ -1,0 +1,1 @@
+[{"pk": 1, "model": "mailer.emailer", "fields": {"body": " This is Good.%(message)s", description": "test",mail_key": "TEST_MAIL", "send_flag": true, "subject": hi %(name)s. Test mail"}}]
